@@ -1,4 +1,3 @@
 # CNN-Project-
-Teju, Priscilla and Marvin CNN project 
-A teste
-Another test
+Deep Learning: Image Classification with CNN 
+Group members - Teju,Priscilla, Marvin
